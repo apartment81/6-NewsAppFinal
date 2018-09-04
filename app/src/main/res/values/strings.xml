@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">theGuardian</string>
+
+    <string name="no_news">No News found for display.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="slash">/</string>
+
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+
+    <!-- Label for results [CHAR LIMIT=20] -->
+    <string name="settings_min_results_label">Results Number</string>
+    <string name="settings_min_results_key" translatable="false">min_results</string>
+    <string name="settings_min_results_default" translatable="false">10</string>
+
+
+    <!-- Label for search word  [CHAR LIMIT=20] -->
+    <string name="settings_words_label">Text Search</string>
+    <string name="settings_words_key" translatable="false">words_search</string>
+    <string name="settings_words_default" translatable="false"> </string>
+
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Label for order-by - newest [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by - relevance [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_relevance_label">Relevance</string>
+    <string name="settings_order_by_most_relevance_value" translatable="false">relevance</string>
+</resources>
