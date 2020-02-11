@@ -22,3 +22,4 @@ PROJECT SPECIFICATION
 - The code is properly formatted i.e. there are no unnecessary blank lines; there are no unused variables or methods; there is no commented out code. The code also has proper indentation when defining variables and methods.
 
 - All Strings are stored in the strings.xml resource file.
+
